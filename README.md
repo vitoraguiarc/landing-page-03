@@ -13,5 +13,5 @@ O site pode ser acessado pelo link: [vitoraguiarc](https://vitoraguiarc.github.i
 * VSCODE
 
 ## Screenshot
-![](print.png)
+![](landingpageprint.JPG)
 

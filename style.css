@@ -50,3 +50,42 @@ h1{
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
 }
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    border-top: white solid 2px;
+}
+
+a.botao_social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 150px;
+    height: 40px;
+    margin: 20px 5px 0px 5px;
+
+    background-color: white;
+
+    border-style: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+a.botao_social:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a.botao_social img {
+    height: 30px;
+    width: 40px;
+}
